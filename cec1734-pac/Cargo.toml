@@ -1,6 +1,6 @@
 [package]
 name = "cec1734-pac"
-version = "0.0.1"
+version = "0.0.22"
 edition = "2021"
 authors = ["Matheus Catarino <matheus-catarino@hotmail.com>"]
 description = "Peripheral access API for Microchip CEC1734 generated from official SVD file"
